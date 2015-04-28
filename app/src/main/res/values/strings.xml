@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMapMarkers</string>
+    <string name="loading">loading</string>
+    <string name="description_refresh">Refresh</string>
+</resources>
